@@ -1,4 +1,4 @@
-# digital-watermarkin
+# digital-watermarking
 ---
  ## LVC Method(Last Value Change Method)
  ### 기본 원리
